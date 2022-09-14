@@ -11,7 +11,6 @@ const App = () => (
         <Stack.Screen
           name="Login"
           component={Login}
-          // options={{ title: 'Welcome' }}
         />
     </Stack.Navigator>
   </NavigationContainer>

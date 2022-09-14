@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "699759189292",
+    "project_id": "egradebookplus-d77ee",
+    "storage_bucket": "egradebookplus-d77ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699759189292:android:84d2d7004e13d13c796089",
+        "android_client_info": {
+          "package_name": "com.egradebookplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699759189292-q1lua75pjakr4aa61vr8qrde8qnf3i3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg1vaL0XNgNEEdHhgoigLDCWoyCy8D5KA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699759189292-q1lua75pjakr4aa61vr8qrde8qnf3i3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
