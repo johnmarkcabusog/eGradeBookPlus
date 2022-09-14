@@ -50,8 +50,8 @@ Click on Change my environment variables
 Click on New... to create a new ANDROID_HOME user variable that points to the path to your Android SDK:
 
 # App installation
-`git clone git@github.com:johnmarkcabusog/eGradeBookPlus.git`
-`npm install`
+- `git clone git@github.com:johnmarkcabusog/eGradeBookPlus.git`
+- `npm install`
 
 # Android  Phone Setup
 1. Go to Software information and click it 5 more times, this should activate the developer settings
