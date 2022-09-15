@@ -7,7 +7,7 @@ You will need Node, the React Native command line interface, a JDK, and Android 
 While you can use any editor of your choice to develop your app, you will need to install Android Studio in order to set up the necessary tooling to build your React Native app for Android.
 
 Node, JDK
-We recommend installing Node via Chocolatey, a popular package manager for Windows.
+We recommend installing Node via (Chocolatey)[https://chocolatey.org/], a popular package manager for Windows.
 
 It is recommended to use an LTS version of Node. If you want to be able to switch between different versions, you might want to install Node via nvm-windows, a Node version manager for Windows.
 
