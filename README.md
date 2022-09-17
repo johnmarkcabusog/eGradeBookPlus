@@ -7,7 +7,7 @@ You will need Node, the React Native command line interface, a JDK, and Android 
 While you can use any editor of your choice to develop your app, you will need to install Android Studio in order to set up the necessary tooling to build your React Native app for Android.
 
 Node, JDK
-We recommend installing Node via Chocolatey, a popular package manager for Windows.
+We recommend installing Node via (Chocolatey)[https://chocolatey.org/], a popular package manager for Windows.
 
 It is recommended to use an LTS version of Node. If you want to be able to switch between different versions, you might want to install Node via nvm-windows, a Node version manager for Windows.
 
@@ -19,7 +19,7 @@ Open an Administrator Command Prompt (right click Command Prompt and select "Run
 #Android development environment
 Setting up your development environment can be somewhat tedious if you're new to Android development. If you're already familiar with Android development, there are a few things you may need to configure. In either case, please make sure to carefully follow the next few steps.
 1. Install Android Studio
-Download and install Android Studio. While on Android Studio installation wizard, make sure the boxes next to all of the following items are checked:
+Download and install Android Studio (https://developer.android.com/studio/index.html) . While on Android Studio installation wizard, make sure the boxes next to all of the following items are checked:
 
 Android SDK
 Android SDK Platform
@@ -45,9 +45,9 @@ Finally, click "Apply" to download and install the Android SDK and related build
 The React Native tools require some environment variables to be set up in order to build apps with native code.
 
 Open the Windows Control Panel.
-Click on User Accounts, then click User Accounts again
-Click on Change my environment variables
-Click on New... to create a new ANDROID_HOME user variable that points to the path to your Android SDK:
+- Click on User Accounts, then click User Accounts again
+- Click on Change my environment variables
+- Click on New... to create a new ANDROID_HOME user variable that points to the path to your Android SDK:
 
 # App installation
 - `git clone git@github.com:johnmarkcabusog/eGradeBookPlus.git`
