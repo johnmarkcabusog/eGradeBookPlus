@@ -1,6 +1,6 @@
-import {Box, View} from '@react-native-material/core';
+import {Box} from '@react-native-material/core';
+import {Text, StyleSheet, View} from 'react-native';
 import WithHeader from '../WithHeader';
-
 const Home = () => {
   return (
     <View>
