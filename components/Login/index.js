@@ -5,7 +5,7 @@ import {useEffect} from 'react';
 const Login = props => {
   useEffect(() => {
     //== check if user has logged in
-    console.log('is Logged in');
+    console.log('is Logged isn');
   }, []);
 
   return (
