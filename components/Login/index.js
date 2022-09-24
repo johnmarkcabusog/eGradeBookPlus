@@ -3,6 +3,7 @@ import {Button, Stack, TextInput} from '@react-native-material/core';
 import {useEffect} from 'react';
 
 const Login = props => {
+  console.log("Propss", props.navigation)
   useEffect(() => {
     //== check if user has logged in
     console.log('is Logged isn');
@@ -28,6 +29,7 @@ const Login = props => {
         title="Sign In"
         id="sign_in_button"
         variant="contained"
+        accessibilityLabel="sign_in_button"
         compact={true}
         onPress={() => {
           props.navigation.navigate('Home');
